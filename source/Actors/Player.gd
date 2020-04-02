@@ -29,4 +29,4 @@ direction: Vector2
 	
 
 
-#finish tomorow
+#fixing what was done wrong
