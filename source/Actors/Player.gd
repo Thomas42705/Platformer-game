@@ -29,4 +29,4 @@ direction: Vector2
 	
 
 
-#fixing what was done wrong
+#can"t figure out whats wrong with jump
