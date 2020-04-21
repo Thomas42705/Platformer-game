@@ -29,8 +29,4 @@ func calculate_move_velocity(
 	
 
 
-#can"t figure out whats wrong with jump
-#April 7 2020
-#April 8 2020 
-#April 9 2020
-#April 20 2020
+#The video I watched over twice now and can't figure out how to jump gonna email teacher tomorrow
