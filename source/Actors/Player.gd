@@ -1,6 +1,7 @@
 extends Actor
 
 
+# warning-ignore:unused_argument
 func _physics_process(delta: float) -> void:
 	var direction: = get_direction()
 	velocity = calculate_move_velocity(velocity, direction, speed)
@@ -30,3 +31,4 @@ func calculate_move_velocity(
 
 
 #The video I watched over twice now and can't figure out how to jump gonna email teacher tomorrow
+#I'm sad it won't work no matter what I do
