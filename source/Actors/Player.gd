@@ -26,4 +26,4 @@ func calculate_move_velocity(
 		new_velocity.y = speed.y * direction.y
 	return new_velocity
 	
-	
+	#I have to fix variable and identification
