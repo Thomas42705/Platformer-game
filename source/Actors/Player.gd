@@ -16,8 +16,8 @@ func get_direction() -> Vector2:
 
 func calculate_move_velocity(
 		linear_velocity: Vector2,
-		speed: Vector2,
-		direction: Vector2
+		direction: Vector2,
+		speed: Vector2
 	) -> Vector2:
 	var new_velocity = linear_velocity
 	new_velocity.x = speed.x * direction.x
@@ -26,5 +26,4 @@ func calculate_move_velocity(
 		new_velocity.y = speed.y * direction.y
 	return new_velocity
 	
-	#I have to fix variable and identification
-	#TOday is April 27 its may birthday.
+
