@@ -27,3 +27,4 @@ func calculate_move_velocity(
 	return new_velocity
 	
 
+#I've just been messing with jump
