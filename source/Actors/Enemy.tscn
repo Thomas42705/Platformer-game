@@ -4,10 +4,10 @@
 [ext_resource path="res://start-assets/enemy.png" type="Texture" id=2]
 
 [sub_resource type="RectangleShape2D" id=1]
-extents = Vector2( 45.0291, 33.3961 )
+extents = Vector2( 51.6245, 33.3961 )
 
 [sub_resource type="RectangleShape2D" id=2]
-extents = Vector2( 57.2275, 12.1476 )
+extents = Vector2( 49.746, 17.2032 )
 
 [node name="Enemy" type="KinematicBody2D"]
 position = Vector2( -1, 0 )
@@ -24,7 +24,8 @@ position = Vector2( 0.880524, -35.6349 )
 shape = SubResource( 1 )
 
 [node name="VisibilityEnabler2D" type="VisibilityEnabler2D" parent="."]
-position = Vector2( 0.880554, -11.8872 )
+position = Vector2( 1.35372, -11.8872 )
+scale = Vector2( 1.03785, 1 )
 rect = Rect2( -50, -50, 100, 60 )
 process_parent = true
 physics_process_parent = true

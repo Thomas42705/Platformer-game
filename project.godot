@@ -26,7 +26,7 @@ config/icon="res://icon.png"
 [display]
 
 window/size/width=1919
-window/size/height=900
+window/size/height=961
 window/size/fullscreen=true
 
 [input]
