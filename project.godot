@@ -23,6 +23,12 @@ _global_script_class_icons={
 config/name="Platformer"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=1919
+window/size/height=900
+window/size/fullscreen=true
+
 [input]
 
 move_left={

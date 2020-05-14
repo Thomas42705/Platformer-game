@@ -4,10 +4,10 @@
 [ext_resource path="res://start-assets/player.png" type="Texture" id=2]
 
 [sub_resource type="RectangleShape2D" id=1]
-extents = Vector2( 41, 44 )
+extents = Vector2( 48, 44 )
 
 [sub_resource type="RectangleShape2D" id=2]
-extents = Vector2( 48, 47 )
+extents = Vector2( 45, 47 )
 
 [node name="Player" type="KinematicBody2D"]
 collision_mask = 8
