@@ -38,7 +38,6 @@ tile_data = PoolIntArray( 65534, 0, 0, 65535, 0, 0, 0, 0, 0, 36, 0, 0, 37, 0, 0,
 editor/display_folded = true
 position = Vector2( 452, 537 )
 speed = Vector2( 800, 400 )
-stomp_impulse = 200.0
 
 [node name="player" parent="Player" index="0"]
 position = Vector2( 68, 387 )

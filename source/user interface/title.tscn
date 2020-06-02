@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="title" type="Label"]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -78.5
+margin_top = 197.0
+margin_right = 40.5
+margin_bottom = 211.0
+text = "My first Platformer"
